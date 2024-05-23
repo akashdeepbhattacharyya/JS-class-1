@@ -104,7 +104,7 @@ console.log(hobbies);
 // js string are Immutable
 let str = "Hello";
 console.log(str);
-str[0] = "h"
+str[0] = "hiiiiiiii"
 console.log(str)
 
 //--------------------------------------------
